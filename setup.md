@@ -5,9 +5,11 @@
 ```bash
 python -m venv env
 # Activate Virtual Environment
+# On cmd
+env\Scripts\activate
 # On Linux/Mac
 source env/bin/activate
-# On Windows
+# On Windows(bash)
 source env/Scripts/activate
 ````
 
